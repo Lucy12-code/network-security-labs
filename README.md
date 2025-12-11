@@ -24,3 +24,8 @@ Nmap,
 Wireshark,
 tcpdump,
 Scapy(python).
+
+## Detailed reports (PDF)
+You can view or download the full lab outputs here:
+[Nmap and Wireshark lab](./nmap-lab-results.pdf)
+[Scapy lab](scapy-lab-results.pdf)
